@@ -18,14 +18,14 @@ I'm currently learning C#, C
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&exclude_repo=PLCSmartLock&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&exclude_repo=PLCSmartLock&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&exclude_repo=PLCSmartLock&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact" />
 </picture>
 <!---
 ilonic23/ilonic23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

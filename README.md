@@ -1,33 +1,24 @@
 # Hi \\(￣︶￣*\))
+I am Ilonic, just a random guy on Github so I totally don't know why would you visit my page, but thank you for doing it!
+<hr>
 
-I'm currently learning C#, C
+## What I learn:
 
-## Github stats:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,c,nix,git" />
+</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilonic23&show_icons=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ilonic23&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ilonic23&show_icons=true&count_private=true" />
-</picture>
+<hr>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilonic23&langs_count=8&theme=dark&layout=compact" />
-</picture>
-<!---
-ilonic23/ilonic23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## My Github stats:
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ilonic23&theme=catppuccin_mocha&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Ilonic's stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ilonic23&theme=catppuccin_mocha&count_private=true&border_radius=10&locale=en" alt="Ilonic's" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ilonic23&theme=catppuccin_mocha&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Ilonic's Most Used Languages" />
+</div>
+
+<hr>
+
+## Current big projects I work on:
+[Phantom Launcher - A launcher for minecraft made using C# and Avalonia UI](https://github.com/ilonic23/PML)

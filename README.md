@@ -20,5 +20,15 @@ I am Ilonic, just a random guy on Github so I totally don't know why would you v
 
 <hr>
 
+## Contact me:
+
+<div align="center">
+  <a href="https://discordapp.com/users/805781809031807007">
+    <img src="https://img.shields.io/badge/Discord-202024?style=for-the-badge&logo=discord&logoColor=5865F2" />
+  </a>
+</div>
+
+<hr>
+
 ## Current big projects I work on:
 [Phantom Launcher - A launcher for minecraft made using C# and Avalonia UI](https://github.com/ilonic23/PML)

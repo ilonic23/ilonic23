@@ -35,3 +35,5 @@ I am Ilonic, just a random guy on Github so I totally don't know why would you v
 
 ## 📙 Current big projects I work on:
 [Phantom Launcher - A launcher for minecraft made using C# and Avalonia UI](https://github.com/ilonic23/PML)
+
+[The All-In-One Multitool - A program for myself to learn Rust](https://github.com/ilonic23/the-all-in-one-multitool)

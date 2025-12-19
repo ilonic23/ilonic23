@@ -1,4 +1,4 @@
-# Hi \\(￣︶￣*\))
+# Hi ૮(˶•ᵕ•˶)੭
 I am Ilonic, just a random guy on Github so I totally don't know why would you visit my page, but thank you for doing it!
 
 ## 📃 About me:

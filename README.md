@@ -3,7 +3,7 @@ I am Ilonic, just a random guy on Github so I totally don't know why would you v
 
 ## 📃 About me:
 - I love tea
-- Hobbies: walking around the city alone, playing indie games
+- Hobbies: playing indie games, going outside
 
 ## 🌱 What I learn:
 

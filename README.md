@@ -25,3 +25,4 @@ I am Ilonic, just a random guy on Github so I totally don't know why would you v
 
 ## 📙 Current big projects I work on:
 - [ihc](https://github.com/ilonic23/ihc) - A single-header libraries collection for C, written in C99 for compatibility.
+- [FrostOS](https://github.com/ilonic23/FrostOS) - My own 32-bit OS, maybe will be a 64-bit one in the future.
